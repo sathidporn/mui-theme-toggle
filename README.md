@@ -4,11 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Customize MUI with theme
 
-Themes let you apply a consistent tone to your app. It allows you to customize all design aspects of your project in order to meet the specific needs of your business or brand.
-https://mui.com/material-ui/customization/theming/
+Themes let you apply a consistent tone to your app. It allows you to customize all design aspects of your project in order to meet the specific needs of your business or brand. https://mui.com/material-ui/customization/theming/
+
 You can customize a component's styles, default props, and more by using its keys inside the theme. 
-This helps to achieve styling consistency across your application.
-https://mui.com/material-ui/customization/theme-components/
+This helps to achieve styling consistency across your application. https://mui.com/material-ui/customization/theme-components/
 
 ## Available Scripts
 
