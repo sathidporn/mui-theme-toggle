@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Customize MUI with your theme
+https://mui.com/material-ui/customization/theming/
+
 ## Available Scripts
 
 In the project directory, you can run:
