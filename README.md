@@ -1,7 +1,3 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 # Customize MUI with theme
 
 Themes let you apply a consistent tone to your app. It allows you to customize all design aspects of your project in order to meet the specific needs of your business or brand. https://mui.com/material-ui/customization/theming/
@@ -12,6 +8,10 @@ This helps to achieve styling consistency across your application. https://mui.c
 You can use this tool to help design and customize themes for the MUI component library. https://bareynol.github.io/mui-theme-creator/
 
 You can use this palette generator to generate a palette for any color you input. https://material.io/inline-tools/color/
+
+# Migration MUI v.4 to v.5
+
+If you using MUI v.4 please read this instruction https://mui.com/material-ui/guides/migration-v4/ for migrate mui v.4 to v.5 
 
 ## Available Scripts
 
