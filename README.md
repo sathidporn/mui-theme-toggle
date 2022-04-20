@@ -9,7 +9,8 @@ Themes let you apply a consistent tone to your app. It allows you to customize a
 You can customize a component's styles, default props, and more by using its keys inside the theme. 
 This helps to achieve styling consistency across your application. https://mui.com/material-ui/customization/theme-components/
 
-You can use this tool to help design and customize themes for the MUI component library. https://bareynol.github.io/mui-theme-creator/#Buttons
+You can use this tool to help design and customize themes for the MUI component library. https://bareynol.github.io/mui-theme-creator/
+
 You can use this palette generator to generate a palette for any color you input. https://material.io/inline-tools/color/
 
 ## Available Scripts
