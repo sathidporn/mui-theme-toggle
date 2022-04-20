@@ -5,6 +5,7 @@ import { useState } from 'react';
 import { FormGroup, FormControlLabel, Switch, Paper} from '@mui/material';
 
 import Demo from './components/Demo'
+import DataGridDemo from './components/DataGridDemo';
 
 function App() {
    let [darkThemeState, setDarkThemeState] = useState(true)
@@ -60,6 +61,7 @@ function App() {
       >
         <ToggleSwitch />
         <Demo></Demo>
+        <DataGridDemo></DataGridDemo>
 
       </Paper>
     </ThemeProvider>

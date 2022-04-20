@@ -18,7 +18,7 @@ export const lightTheme = createTheme({
       main: '#ff9800',
     },
     info: {
-      main: '#ffffff'
+      main: '#f2f2f2'
     },
     success:{
       main: '#4caf50'
@@ -48,7 +48,7 @@ export const lightTheme = createTheme({
           borderRadius: 15,
         },
       },
-    }
+    },
   },
 });
 
@@ -99,7 +99,7 @@ export const darkTheme = createTheme({
           borderRadius: 15,
         },
       },
-    }
+    },
   },
 
 });
