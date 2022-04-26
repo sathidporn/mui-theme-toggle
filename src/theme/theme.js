@@ -1,6 +1,4 @@
 import { createTheme } from "@mui/material";
-import { minWidth } from "@mui/system";
-
 export const lightTheme = createTheme({
   palette: {
     mode: "light",
@@ -38,18 +36,18 @@ export const lightTheme = createTheme({
     },
   },
 
-  components: {
-    // Name of the component
-    MuiButton: {
-      styleOverrides: {
-        // Name of the slot
-        root: {
-          // Some CSS
-          borderRadius: 15,
-        },
-      },
-    },
-  },
+  // components: {
+  //   // Name of the component
+  //   MuiButton: {
+  //     styleOverrides: {
+  //       // Name of the slot
+  //       root: {
+  //         // Some CSS
+  //         borderRadius: 15,
+  //       },
+  //     },
+  //   },
+  // },
 });
 
 
@@ -89,17 +87,17 @@ export const darkTheme = createTheme({
     },
   },
 
-  components: {
-    // Name of the component
-    MuiButton: {
-      styleOverrides: {
-        // Name of the slot
-        root: {
-          // Some CSS
-          borderRadius: 15,
-        },
-      },
-    },
-  },
+  // components: {
+  //   // Name of the component
+  //   MuiButton: {
+  //     styleOverrides: {
+  //       // Name of the slot
+  //       root: {
+  //         // Some CSS
+  //         borderRadius: 15,
+  //       },
+  //     },
+  //   },
+  // },
 
 });

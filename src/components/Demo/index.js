@@ -1,6 +1,9 @@
 import { Typography, Button} from '@mui/material';
+import { style } from '../../styles/style';
+const useStyles = style
 
 export default function Demo(){
+    let classes = useStyles();
     return(
         <>
         <Typography variant='h1'>Customize Theme</Typography>
@@ -8,7 +11,10 @@ export default function Demo(){
         <Typography variant='h2' color="secondary">secondary color text</Typography>
         <Typography variant='h2' color="error">error color text</Typography>
 
-        <Button variant="contained" color="primary">primary color button</Button>
+        styled button
+        <Button color="primary" className={classes.roundButton} >primary color button</Button>
+
+        normal button
         <Button variant="contained" color="secondary">secondary color button</Button>
         <Button variant="contained" color="info">info color button</Button>
         <Button variant="contained" color="error">error color button</Button>
